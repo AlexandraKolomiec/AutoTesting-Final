@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+username: NatGlu
+password: db2d28bf9f
+bad_login: test
+name: Glushko Natalya
+email: test@mail.ru
+content: Test information
